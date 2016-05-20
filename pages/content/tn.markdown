@@ -4,6 +4,10 @@ title: translationNotes
 permalink: /tn/index.html
 header_image_layout: icon
 header_image: icon-tn.png
+a: Easy!
+b:
+  c: 2
+  d: [3, 4]
 ---
 
 **translationNotes** provides translators with exegetical information for each passage of the [Bible][bible], as well as other biblical resources like [Open Bible Stories][obs]. By providing historical, cultural, and linguistic information, together with interlinked information pertaining to [key terms][tw] and [translation theory][ta], translators are equipped to translate and check their translations with excellence.
